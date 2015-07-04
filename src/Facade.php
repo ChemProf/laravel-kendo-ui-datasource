@@ -1,4 +1,4 @@
-<?php namespace Chemprof\LaravelKendoUiDatasource;
+<?php namespace LaravelKendoUiDatasource;
 
 use Illuminate\Support\Facades\Facade as IlluminateFacade;
 
