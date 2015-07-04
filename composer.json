@@ -1,0 +1,20 @@
+{
+    "name": "chemprof/laravel-kendo-ui-datasource",
+    "description": "",
+    "authors": [
+        {
+            "name": "ChemProf"
+        }
+    ],
+    "require": {
+    },
+    "require-dev": {
+        "mockery/mockery": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "ChemProf\\LaravelKendoUiDatasource": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
